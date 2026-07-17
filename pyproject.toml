@@ -90,7 +90,7 @@ test = [
     # https://github.com/jimporter/mike/issues/148
     "setuptools==82.0.1",
     "markdown-include==0.8.1",
-    "mkdocs-material==9.7.6",
+    "mkdocs-material==9.7.7",
     "mkdocstrings[python]==1.0.4",
     "numpy>=1.25.0",
     "pre-commit==4.6.0",
